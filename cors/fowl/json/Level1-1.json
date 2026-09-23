@@ -31,7 +31,7 @@
   "world": {
     "bird_1": {
       "angle": 0,
-      "id": "BIRD_RED",
+      "id": "BIRD_BLUE",
       "x": 0,
       "y": -0.974
     },
